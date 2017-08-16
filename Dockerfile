@@ -1,6 +1,6 @@
 FROM debian
  
-RUN apt-get update && apt-get -y install -qq --force-yes cron
+RUN apt-get update && apt-get -y install -qq --force-yes cron && apt-get -y install unzip
 
 COPY sample.zip /etc/sample.zip
 RUN unzip /etc/sample.zip
