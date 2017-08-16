@@ -1,1 +1,1 @@
-* * * * * ./etc/printJob/printJob_run.sh >>/var/log/etl.log 2>&1
+* * * * * /etc/printJob/printJob_run.sh >>/var/log/etl.log 2>&1
