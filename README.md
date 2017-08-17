@@ -1,5 +1,5 @@
-## Download the attached file (test-cron-docker.zip) and extract it.
-## Then run the following commands in the extracted directory.
+* Download the attached file (test-cron-docker.zip) and extract it.
+* Then run the following commands in the extracted directory.
 
 ``` java
 //to build the docker image
